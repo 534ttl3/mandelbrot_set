@@ -1,0 +1,4 @@
+Using C++ and OpenGL to calculate and display the Mandelbrot Set. 
+
+Output: 
+[[file:./image.bmp]]
